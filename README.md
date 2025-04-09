@@ -12,7 +12,7 @@
 ### CSS (`style.css`)
 
 - Maquetación basada en **CSS Grid de 12 columnas**
-- Diseño responsive con **Media Queries**
+- Diseño resposive con **Media Queries**
 - Colores accesibles y estructura legible para herramientas como **WAVE**
 - Animaciones suaves al hacer over o clic
 
@@ -20,7 +20,7 @@
 
 1. Mensaje de bienvenida en consola al cargar
 2. Efecto hover y brillo sobre imágenes
-3. Mensaje interactivo al hacer clic en una imagen
+3. Mensaje interactivo al hacer click en una imagen
 4. Validación de formulario (campos obligatorios)
 5. Año automático en el footer
 
